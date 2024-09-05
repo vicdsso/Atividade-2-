@@ -1,0 +1,15 @@
+{
+  "name": "atividade-2-",
+  "version": "1.0.0",
+  "description": "Estruturação de Pipelines de CI/CD com GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
